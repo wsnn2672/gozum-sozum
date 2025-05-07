@@ -1,0 +1,3 @@
+D:/FProjects/alspeaker/android/openCV/.cxx/Debug/713fi5s2/x86_64/CMakeFiles/opencv_jni_shared.dir
+D:/FProjects/alspeaker/android/openCV/.cxx/Debug/713fi5s2/x86_64/CMakeFiles/edit_cache.dir
+D:/FProjects/alspeaker/android/openCV/.cxx/Debug/713fi5s2/x86_64/CMakeFiles/rebuild_cache.dir

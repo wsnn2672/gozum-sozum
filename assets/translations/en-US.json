@@ -1,0 +1,96 @@
+{
+    "tabName0": "SETTINGS",
+    "tabName1": "QUICK",
+    "tabName2": "TEXT ENTRY",
+    "tabName3": "CALIBRATION",
+    "tabName4": "DATA",
+
+    "straight": "Straight",
+    "rightup": "Right Up",
+    "leftup": "Left Up",
+    "up": "Up",
+    "down": "Down",
+    "rightdown": "Right Down",
+    "leftdown": "Left Down",
+
+    "disabledcameraL": "Camera is Offline!\nIt can be turned on from settings.",
+    "disabledcameraS": "Camera is Offline!",
+
+    "letterbyletter": "Letter by Letter",
+    "right": "Right",
+    "left": "Left",
+
+    "overallgazetype": "Overall Gaze Type",
+    "overallloss": "Overall Loss",
+    "cameraon": "Camera On",
+    "cameraoff": "Camera Off",
+    "sensitivity": "Sensitivity",
+    "language": "Language",
+    "textentrymode": "Text Entry Mode",
+    "sentencegenmodel": "Sentence Generation Model",
+
+    "lines00": "Basic Needs",
+    "lines01": "I want to eat something.",
+    "lines02": "I am happy.",
+    "lines03": "I feel hot.",
+    "lines04": "I want to go outside.",
+    "lines05": "I feel some pain.",
+
+    "lines10": "Emotions",
+    "lines11": "I want to sleep.",
+    "lines12": "I am sad.",
+    "lines13": "I feel cold.",
+    "lines14": "I want to read newspaper.",
+    "lines15": "I feel extreme pain.",
+
+    "lines20": "Environment Control",
+    "lines21": "I want to go to bathroom.",
+    "lines22": "I am angry.",
+    "lines23": "It is too noisy.",
+    "lines24": "I want to listen to music.",
+    "lines25": "I need to eat my pills.",
+
+    "lines30": "Social Activities and Recreation",
+    "lines31": "I want to drink water.",
+    "lines32": "I am scared.",
+    "lines33": "It is too bright.",
+    "lines34": "I want to watch television.",
+    "lines35": "I need to go to the hospital.",
+
+    "lines40": "Medical Needs",
+    "lines41": "I want to rest.",
+    "lines42": "I am confused.",
+    "lines43": "It is too dark.",
+    "lines44": "I want to listen to the radio.",
+    "lines45": "I feel fine.",
+
+    "back": "Back",
+    "backentry": "Back to Text Entry",
+
+    "nomatch": "NO MATCH",
+    "keyboardlu": "ABCDEF",
+    "keyboardru": "GHIJKLM",
+    "keyboardld": "NOPQRST",
+    "keyboardrd": "UVWXYZ",
+
+    "switchText": "SWITCH",
+    "delete": "DELETE",
+    "text": "Text",
+    "entercontext": "Enter Context Here",
+    "nextPage": "Next Page",
+    "speak": "SPEAK",
+
+    "calibrationDone": "Calibration Finished!",
+    "calibrationFailed": "The operation could not be completed, please try again.",
+
+    "wantedDirection": "Desired Direction",
+    "selectedEye": "Selected Eye",
+    "wantedinfo": "Move your eye to the desired position.",
+    "changeEye": "Switch Eye",
+    "calibrate": "Calibrate",
+    "calibrationDatas": "Calibration Datas",
+
+    "noImage": "Image Cant Found.",
+
+    "datainfo": "Texts you have written in the past will be displayed here."
+}

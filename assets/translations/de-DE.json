@@ -1,0 +1,96 @@
+{
+    "tabName0": "EINSTELLUNGEN",
+    "tabName1": "SCHNELL",
+    "tabName2": "TEXTEINGABE",
+    "tabName3": "KALIBRIERUNG",
+    "tabName4": "DATEN",
+
+    "straight": "Gerade",
+    "rightup": "Rechts Oben",
+    "leftup": "Links Oben",
+    "up": "Oben",
+    "down": "Unten",
+    "rightdown": "Rechts Unten",
+    "leftdown": "Links Unten",
+
+    "disabledcameraL": "Kamera ist offline!\nSie kann in den Einstellungen aktiviert werden.",
+    "disabledcameraS": "Kamera ist offline!",
+
+    "letterbyletter": "Buchstabe für Buchstabe",
+    "right": "Rechts",
+    "left": "Links",
+
+    "overallgazetype": "Gesamter Blicktyp",
+    "overallloss": "Gesamter Verlust",
+    "cameraon": "Kamera Ein",
+    "cameraoff": "Kamera Aus",
+    "sensitivity": "Empfindlichkeit",
+    "language": "Sprache",
+    "textentrymode": "Text Eingabemodus",
+    "sentencegenmodel": "Satzgenerierungsmodell",
+
+    "lines00": "Grundbedürfnisse",
+    "lines01": "Ich möchte etwas essen.",
+    "lines02": "Ich bin glücklich.",
+    "lines03": "Mir ist heiß.",
+    "lines04": "Ich möchte nach draußen gehen.",
+    "lines05": "Ich habe Schmerzen.",
+
+    "lines10": "Emotionen",
+    "lines11": "Ich möchte schlafen.",
+    "lines12": "Ich bin traurig.",
+    "lines13": "Mir ist kalt.",
+    "lines14": "Ich möchte eine Zeitung lesen.",
+    "lines15": "Ich habe starke Schmerzen.",
+
+    "lines20": "Umweltkontrolle",
+    "lines21": "Ich möchte auf die Toilette gehen.",
+    "lines22": "Ich bin wütend.",
+    "lines23": "Es ist zu laut.",
+    "lines24": "Ich möchte Musik hören.",
+    "lines25": "Ich muss meine Tabletten nehmen.",
+
+    "lines30": "Soziale Aktivitäten und Freizeit",
+    "lines31": "Ich möchte Wasser trinken.",
+    "lines32": "Ich habe Angst.",
+    "lines33": "Es ist zu hell.",
+    "lines34": "Ich möchte Fernsehen schauen.",
+    "lines35": "Ich muss ins Krankenhaus.",
+
+    "lines40": "Medizinische Bedürfnisse",
+    "lines41": "Ich möchte mich ausruhen.",
+    "lines42": "Ich bin verwirrt.",
+    "lines43": "Es ist zu dunkel.",
+    "lines44": "Ich möchte Radio hören.",
+    "lines45": "Ich fühle mich gut.",
+
+    "back": "Zurück",
+    "backentry": "Zurück zur Texteingabe",
+
+    "nomatch": "NO MATCH",
+    "keyboardlu": "ABCDEFGH",
+    "keyboardru": "IJKLMNO",
+    "keyboardld": "PQRSTUV",
+    "keyboardrd": "WXYZÄÖÜß",
+
+    "switchText": "WECHSELN",
+    "delete": "LÖSCHEN",
+    "text": "Text",
+    "entercontext": "Hier Kontext eingeben",
+    "nextPage": "Nächste Seite",
+    "speak": "SPRECHEN",
+
+    "calibrationDone": "Kalibrierung abgeschlossen!",
+    "calibrationFailed": "Die Operation konnte nicht abgeschlossen werden, bitte versuchen Sie es erneut.",
+
+    "wantedDirection": "Gewünschte Richtung",
+    "selectedEye": "Ausgewähltes Auge",
+    "wantedinfo": "Bewegen Sie Ihr Auge in die gewünschte Position.",
+    "changeEye": "Auge wechseln",
+    "calibrate": "Kalibrieren",
+    "calibrationDatas": "Kalibrierdaten",
+
+    "noImage": "Bild nicht gefunden.",
+
+    "datainfo": "Hier werden die Texte angezeigt, die Sie in der Vergangenheit geschrieben haben."
+}

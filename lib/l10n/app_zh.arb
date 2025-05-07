@@ -1,0 +1,96 @@
+{
+    "tabName0": "设置",
+    "tabName1": "快速",
+    "tabName2": "文本输入",
+    "tabName3": "校准",
+    "tabName4": "数据",
+
+    "straight": "直视",
+    "rightup": "右上",
+    "leftup": "左上",
+    "up": "上",
+    "down": "下",
+    "rightdown": "右下",
+    "leftdown": "左下",
+
+    "disabledcameraL": "摄像头已离线！\n可以在设置中打开。",
+    "disabledcameraS": "摄像头已离线！",
+
+    "letterbyletter": "逐字输入",
+    "right": "右",
+    "left": "左",
+
+    "overallgazetype": "整体注视类型",
+    "overallloss": "整体损失",
+    "cameraon": "摄像头开启",
+    "cameraoff": "摄像头关闭",
+    "sensitivity": "灵敏度",
+    "language": "语言",
+    "textentrymode": "文本输入模式",
+    "sentencegenmodel": "句子生成模型",
+
+    "lines00": "基本需求",
+    "lines01": "我想吃点东西。",
+    "lines02": "我很开心。",
+    "lines03": "我觉得热。",
+    "lines04": "我想出去。",
+    "lines05": "我感到有些疼痛。",
+
+    "lines10": "情感",
+    "lines11": "我想睡觉。",
+    "lines12": "我很伤心。",
+    "lines13": "我觉得冷。",
+    "lines14": "我想看报纸。",
+    "lines15": "我感到剧烈疼痛。",
+
+    "lines20": "环境控制",
+    "lines21": "我想去洗手间。",
+    "lines22": "我很生气。",
+    "lines23": "太吵了。",
+    "lines24": "我想听音乐。",
+    "lines25": "我需要吃药。",
+
+    "lines30": "社交活动和娱乐",
+    "lines31": "我想喝水。",
+    "lines32": "我很害怕。",
+    "lines33": "太亮了。",
+    "lines34": "我想看电视。",
+    "lines35": "我需要去医院。",
+
+    "lines40": "医疗需求",
+    "lines41": "我想休息。",
+    "lines42": "我很困惑。",
+    "lines43": "太暗了。",
+    "lines44": "我想听收音机。",
+    "lines45": "我感觉很好。",
+
+    "back": "返回",
+    "backentry": "返回文本输入",
+
+    "nomatch": "无匹配",
+    "keyboardlu": "ABCDEF",
+    "keyboardru": "GHIJKLM",
+    "keyboardld": "NOPQRST",
+    "keyboardrd": "UVWXYZ",
+
+    "switchText": "切换",
+    "delete": "删除",
+    "text": "文本",
+    "entercontext": "在此输入文本",
+    "nextPage": "下一页",
+    "speak": "朗读",
+
+    "calibrationDone": "校准完成！",
+    "calibrationFailed": "操作未能完成，请重试。",
+
+    "wantedDirection": "期望方向",
+    "selectedEye": "选定的眼睛",
+    "wantedinfo": "将您的眼睛移动到期望的位置。",
+    "changeEye": "切换眼睛",
+    "calibrate": "校准",
+    "calibrationDatas": "校准数据",
+
+    "noImage": "未找到图像。",
+
+    "datainfo": "您过去输入的文本将在此处显示。"
+}

@@ -1,0 +1,96 @@
+{
+    "tabName0": "AYARLAR",
+    "tabName1": "HIZLI",
+    "tabName2": "METIN GIRISI",
+    "tabName3": "KALIBRASYON",
+    "tabName4": "VERI",
+
+    "straight": "Düz",
+    "rightup": "Sağ Yukarı",
+    "leftup": "Sol Yukarı",
+    "up": "Yukarı",
+    "down": "Aşağı",
+    "rightdown": "Sağ Aşağı",
+    "leftdown": "Sol Aşağı",
+
+    "disabledcameraL": "Kamera Devre Dışı!\nAyarlardan Açabilirsiniz.",
+    "disabledcameraS": "Kamera Devre Dışı!",
+
+    "letterbyletter": "Harf ve Harf",
+    "right": "Sağ",
+    "left": "Sol",
+
+    "overallgazetype": "Genel Bakış Türü",
+    "overallloss": "Genel Kayıp",
+    "cameraon": "Kamera Açık",
+    "cameraoff": "Kamera Kapalı",
+    "sensitivity": "Hassasiyet",
+    "language": "Dil",
+    "textentrymode": "Metin Giriş Modu",
+    "sentencegenmodel": "Cümle Oluşturma Modeli",
+
+    "lines00": "Basit İhtiyaçlar",
+    "lines01": "Bir şeyler yemek istiyorum.",
+    "lines02": "Mutluyum.",
+    "lines03": "Sıcak hissediyorum.",
+    "lines04": "Dışarı çıkmak istiyorum.",
+    "lines05": "Biraz acı hissediyorum.",
+
+    "lines10": "Duygular",
+    "lines11": "Uyumak istiyorum.",
+    "lines12": "Üzgünüm.",
+    "lines13": "Soğuk hissediyorum.",
+    "lines14": "Gazete okumak istiyorum.",
+    "lines15": "Çok fazla acı hissediyorum.",
+
+    "lines20": "Çevre Kontrolü",
+    "lines21": "Banyoya gitmek istiyorum.",
+    "lines22": "Sinirliyim.",
+    "lines23": "Çok gürültülü.",
+    "lines24": "Müzik dinlemek istiyorum.",
+    "lines25": "İlaçlarımı almam gerekiyor.",
+
+    "lines30": "Sosyal Aktiviteler ve Eğlence",
+    "lines31": "Su içmek istiyorum.",
+    "lines32": "Korkuyorum.",
+    "lines33": "Çok aydınlık.",
+    "lines34": "Televizyon izlemek istiyorum.",
+    "lines35": "Hastaneye gitmem gerekiyor.",
+
+    "lines40": "Tıbbi İhtiyaçlar",
+    "lines41": "Dinlenmem gerekiyor.",
+    "lines42": "Kafam karıştı.",
+    "lines43": "Çok karanlık.",
+    "lines44": "Radyo dinlemek istiyorum.",
+    "lines45": "İyi hissediyorum.",
+
+    "back": "Geri",
+    "backentry": "Metin Girişi Sayfasına Dön",
+
+    "nomatch": "EŞLEŞME YOK",
+    "keyboardlu": "ABCÇDEFG",
+    "keyboardru": "ĞHİIJKL",
+    "keyboardld": "MNOÖPRS",
+    "keyboardrd": "ŞTUÜVYZ",
+
+    "switchText": "Değiştir",
+    "delete": "Sil",
+    "text": "Metin",
+    "entercontext": "Buraya içeriği giriniz",
+    "nextPage": "Sonraki Sayfa",
+    "speak": "KONUŞ",
+
+    "calibrationDone": "Kalibrasyon Tamamlandı!",
+    "calibrationFailed": "İşlem gerçekleştirilemedi, lütfen tekrar deneyin.",
+
+    "wantedDirection": "İstenilen Yön",
+    "selectedEye": "Seçilen Göz",
+    "wantedinfo": "Gözünüzü istenilen konuma getirin.",
+    "changeEye": "Gözü Değiştir",
+    "calibrate": "Kalibre Et",
+    "calibrationDatas": "Kalibrasyon Verileriniz",
+
+    "noImage": "Görsel Bulunamadı.",
+
+    "datainfo": "Geçmişte yazdığınız metinler burada görüntülenecek."
+}

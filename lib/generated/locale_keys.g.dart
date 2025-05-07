@@ -1,0 +1,85 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: constant_identifier_names
+
+abstract class  LocaleKeys {
+  static const tabName0 = 'tabName0';
+  static const tabName1 = 'tabName1';
+  static const tabName2 = 'tabName2';
+  static const tabName3 = 'tabName3';
+  static const tabName4 = 'tabName4';
+  static const straight = 'straight';
+  static const rightup = 'rightup';
+  static const leftup = 'leftup';
+  static const up = 'up';
+  static const down = 'down';
+  static const rightdown = 'rightdown';
+  static const leftdown = 'leftdown';
+  static const disabledcameraL = 'disabledcameraL';
+  static const disabledcameraS = 'disabledcameraS';
+  static const letterbyletter = 'letterbyletter';
+  static const right = 'right';
+  static const left = 'left';
+  static const overallgazetype = 'overallgazetype';
+  static const overallloss = 'overallloss';
+  static const cameraon = 'cameraon';
+  static const cameraoff = 'cameraoff';
+  static const sensitivity = 'sensitivity';
+  static const language = 'language';
+  static const textentrymode = 'textentrymode';
+  static const sentencegenmodel = 'sentencegenmodel';
+  static const lines00 = 'lines00';
+  static const lines01 = 'lines01';
+  static const lines02 = 'lines02';
+  static const lines03 = 'lines03';
+  static const lines04 = 'lines04';
+  static const lines05 = 'lines05';
+  static const lines10 = 'lines10';
+  static const lines11 = 'lines11';
+  static const lines12 = 'lines12';
+  static const lines13 = 'lines13';
+  static const lines14 = 'lines14';
+  static const lines15 = 'lines15';
+  static const lines20 = 'lines20';
+  static const lines21 = 'lines21';
+  static const lines22 = 'lines22';
+  static const lines23 = 'lines23';
+  static const lines24 = 'lines24';
+  static const lines25 = 'lines25';
+  static const lines30 = 'lines30';
+  static const lines31 = 'lines31';
+  static const lines32 = 'lines32';
+  static const lines33 = 'lines33';
+  static const lines34 = 'lines34';
+  static const lines35 = 'lines35';
+  static const lines40 = 'lines40';
+  static const lines41 = 'lines41';
+  static const lines42 = 'lines42';
+  static const lines43 = 'lines43';
+  static const lines44 = 'lines44';
+  static const lines45 = 'lines45';
+  static const back = 'back';
+  static const backentry = 'backentry';
+  static const nomatch = 'nomatch';
+  static const keyboardlu = 'keyboardlu';
+  static const keyboardru = 'keyboardru';
+  static const keyboardld = 'keyboardld';
+  static const keyboardrd = 'keyboardrd';
+  static const switchText = 'switchText';
+  static const delete = 'delete';
+  static const text = 'text';
+  static const entercontext = 'entercontext';
+  static const nextPage = 'nextPage';
+  static const speak = 'speak';
+  static const calibrationDone = 'calibrationDone';
+  static const calibrationFailed = 'calibrationFailed';
+  static const wantedDirection = 'wantedDirection';
+  static const selectedEye = 'selectedEye';
+  static const wantedinfo = 'wantedinfo';
+  static const changeEye = 'changeEye';
+  static const calibrate = 'calibrate';
+  static const calibrationDatas = 'calibrationDatas';
+  static const noImage = 'noImage';
+  static const datainfo = 'datainfo';
+
+}

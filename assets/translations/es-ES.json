@@ -1,0 +1,96 @@
+{
+    "tabName0": "AJUSTES",
+    "tabName1": "RÁPIDO",
+    "tabName2": "ENTRADA",
+    "tabName3": "CALIBRACIÓN",
+    "tabName4": "DATOS",
+
+    "straight": "Recto",
+    "rightup": "Bien Arriba",
+    "leftup": "Izquierda Arriba",
+    "up": "Arriba",
+    "down": "Abajo",
+    "rightdown": "Derecha Abajo",
+    "leftdown": "Izquierda Abajo",
+
+    "disabledcameraL": "La cámara está desconectada.\nSe puede activar desde los ajustes.",
+    "disabledcameraS": "La cámara está desconectada!",
+
+    "letterbyletter": "Letra a letra",
+    "right": "Derecha",
+    "left": "Izquierda",
+
+    "overallgazetype": "Tipo de mirada global",
+    "overallloss": "Pérdida global",
+    "cameraon": "Cámara encendida",
+    "cameraoff": "Cámara apagada",
+    "sensitivity": "Sensibilidad",
+    "language": "Idioma",
+    "textentrymode": "Modo de entrada",
+    "sentencegenmodel": "Modelo de generación de frases",
+
+    "lines00": "Necesidades básicas",
+    "lines01": "Quiero comer algo.",
+    "lines02": "Estoy contenta.",
+    "lines03": "Tengo calor.",
+    "lines04": "Quiero salir.",
+    "lines05": "Siento algo de dolor.",
+
+    "lines10": "Emociones",
+    "lines11": "Quiero dormir.",
+    "lines12": "Estoy triste.",
+    "lines13": "Tengo frío.",
+    "lines14": "Quiero leer el periódico.",
+    "lines15": "Siento un dolor extremo.",
+
+    "lines20": "Control medioambiental",
+    "lines21": "Quiero ir al baño.",
+    "lines22": "Estoy enfadado.",
+    "lines23": "Es demasiado ruidoso.",
+    "lines24": "Quiero escuchar música.",
+    "lines25": "Necesito comer mis pastillas.",
+
+    "lines30": "Actividades sociales y recreativas",
+    "lines31": "Quiero beber agua.",
+    "lines32": "Tengo miedo.",
+    "lines33": "Es demasiado brillante.",
+    "lines34": "Quiero ver la televisión.",
+    "lines35": "Necesito ir al hospital.",
+
+    "lines40": "Necesidades médicas",
+    "lines41": "Quiero descansar.",
+    "lines42": "Estoy confundido.",
+    "lines43": "Es demasiado oscuro.",
+    "lines44": "Quiero escuchar la radio.",
+    "lines45": "Me siento bien.",
+
+    "back": "Volver",
+    "backentry": "Volver a Introducción de texto",
+
+    "nomatch": "NO MATCH",
+    "keyboardlu": "ABCDEF",
+    "keyboardru": "GHIJKLM",
+    "keyboardld": "NOPQRST",
+    "keyboardrd": "UVWXYZÑ",
+
+    "switchText": "INTERRUPTOR",
+    "delete": "BORRAR",
+    "text": "Texto",
+    "entercontext": "Introduzca aquí el contexto",
+    "nextPage": "Página siguiente",
+    "speak": "HABLA",
+
+    "calibrationDone": "Calibración finalizada!",
+    "calibrationFailed": "La operación no ha podido completarse, por favor inténtelo de nuevo.",
+
+    "wantedDirection": "Dirección deseada",
+    "selectedEye": "Ojo seleccionado",
+    "wantedinfo": "Mueva el ojo a la posición deseada.",
+    "changeEye": "Ojo de Interruptor",
+    "calibrate": "Calibre",
+    "calibrationDatas": "Datos de calibración",
+
+    "noImage": "Imagen no encontrada.",
+
+    "datainfo": "Los textos que hayas escrito en el pasado se mostrarán aquí."
+}
